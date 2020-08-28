@@ -69,6 +69,9 @@ export default {
         this.startTime()
       },50000); // 500
 
+
+      
+
     },
     checkTime(i) {
       if (i < 10) {i = "0" + i}  // add zero in front of numbers < 10
